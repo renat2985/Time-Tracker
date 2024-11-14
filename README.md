@@ -18,6 +18,6 @@ If you want new features, please write.
 
 If you like this project, you can give me a cup of coffee :coffee:
 
-- Bitcoin (BTC): 19xg6pA4RzSW3o4ZUyTyn5t4tY3tqLXHbe
-- TonCoin: UQBY_xXK_25L-UHq_h2ocfhS0c_lZoA4PIHxt-SktxLa_So7 
+<img src="https://github.com/renat2985/renat2985/raw/main/donate/donate.png" width="100%">
+
 - PayPal [https://www.paypal.me/RKevrels](https://www.paypal.me/RKevrels/5)
