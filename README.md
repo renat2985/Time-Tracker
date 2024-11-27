@@ -1,17 +1,32 @@
 # Easy Linux Track Manager
 
-## Install 
-You can download only TimeTracker file,
-change chmod:
-> chmod 755 TimeTracker
-
-And Run him :)
-
-If you want new features, please write.
-
+**Simple Time Tracker for Linux (Beta Version)**
 
 ![Track-Manager](https://raw.githubusercontent.com/renat2985/Time-Tracker/master/screen.png)
 
+
+## Description
+
+Time-Tracker is a lightweight and convenient tool for time tracking on Linux.  
+The application is developed using Delphi and Kylix, ensuring stable performance in the Linux environment.
+
+## Installation
+
+1. Download the `TimeTracker` file from the repository.
+2. Make the file executable:
+   ```bash
+   chmod 755 TimeTracker
+    ```
+3.	Run the application:
+     ```bash
+	./TimeTracker
+     ```
+
+## Features
+  - Time Tracking: Easily track the time spent on various tasks.
+  - Simple Interface: Intuitive interface for quick and easy use.
+
+If you want new features, please write.
 
 
 ## :battery: Donation
